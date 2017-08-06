@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string-array name="root_list">
+        <item>People</item>
+        <item>Planets</item>
+        <item>Films</item>
+        <item>Species</item>
+        <item>Vehicles</item>
+        <item>Starships</item>
+    </string-array>
+</resources>
